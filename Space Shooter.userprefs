@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BGScroll.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TouchPad.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FirePad.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DistroyByShot.cs" Line="37" Column="3" />
+      <File FileName="Assets\Scripts\Mover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BGScroll.cs" Line="20" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
